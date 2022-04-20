@@ -2,3 +2,4 @@ ddcc
 ccccccc
 mmm
 git log可以显示git提交的详细纪录
+git log --oneline 可以将提交纪录简化输出
