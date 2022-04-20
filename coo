@@ -3,3 +3,4 @@ ccccccc
 mmm
 git log可以显示git提交的详细纪录
 git log --oneline 可以将提交纪录简化输出
+使用git log --oneline -5 可以只简化显示最近的5条提交纪录
