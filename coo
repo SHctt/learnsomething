@@ -4,3 +4,6 @@ mmm
 git log可以显示git提交的详细纪录
 git log --oneline 可以将提交纪录简化输出
 使用git log --oneline -5 可以只简化显示最近的5条提交纪录
+git log --oneline --auther 可以只显示具体某一个修改人的纪录
+git log --oneline --grep='coo' 可以显示包含coo文件的所有提交
+git log --oneline --before='1 day' 可以显示一天一周前的提交，也可以编写为日期格式显示某个日期前的提交
